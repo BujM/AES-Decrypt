@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="easdecrypt">
+    <output-path>$PROJECT_DIR$/out/artifacts/easdecrypt</output-path>
+    <root id="archive" name="easdecrypt.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
